@@ -65,9 +65,9 @@ import EveOnline.VolatileHostInterface as VolatileHostInterface exposing (effect
 -}
 defaultBotSettings : BotSettings
 defaultBotSettings =
-    { runAwayShieldHitpointsThresholdPercent = 70
-    , targetingRange = 8000
-    , miningModuleRange = 5000
+    { runAwayShieldHitpointsThresholdPercent = 60
+    , targetingRange = 15000
+    , miningModuleRange = 15000
     , botStepDelayMilliseconds = 2000
     , lastDockedStationNameFromInfoPanel = Nothing
     , oreHoldMaxPercent = 99
