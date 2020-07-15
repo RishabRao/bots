@@ -70,7 +70,7 @@ defaultBotSettings =
     , miningModuleRange = 18000
     , botStepDelayMilliseconds = 2000
     , lastDockedStationNameFromInfoPanel = Nothing
-    , oreHoldMaxPercent = 99
+    , oreHoldMaxPercent = 93
     , selectInstancePilotName = Nothing
     }
 
